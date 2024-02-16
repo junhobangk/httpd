@@ -1,3 +1,3 @@
 ## is this really working
 
-qwfgqwgqwgqwgqwgqwgqwgqwgqwgqwgqwgqwgqwgqw
+hi let me introduce myself. this is junho bang
