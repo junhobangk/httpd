@@ -1,5 +1,3 @@
 ## is this really working
 
-
-
-ouubbuthbqeutbqwtbqwojbrfojqwNFOJ  NWodjnqwojNDOJQABWFBQWOFBQWIOHFBVQIWYVIFHBVQWIFBQWOBFQWO
+Hi this is Junho
