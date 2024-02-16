@@ -2,7 +2,8 @@ FROM centos:7
 
 # Apache 소스 설치를 위한 패키지
 RUN yum -y update && yum clean all
-RUN yum -y install httpd httpd-devel gcc* make && yum clean all
+RUN yum -y install httpd httpd-devel gcc* make
+RUN yum clean all
 RUN yum install -y wget
 RUN yum install -y make
 
