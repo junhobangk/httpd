@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/junhobangk/httpd.git'
+                git 'https://github.com/junhobangk/httpd.git' , credentialsId: 'github_credential'
             }
         }
 
