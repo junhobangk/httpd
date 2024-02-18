@@ -4,3 +4,4 @@ github credential
 ##
 #깃크리덴셜 git(credentialsId: 'github_credential', url: 'https://github.com/junhobangk/httpd.git') 문맥 수정
 # swap,temp메모리 업글
+#shot 1 2.18
